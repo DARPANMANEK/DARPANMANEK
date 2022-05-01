@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DARPANMANEK
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity 3D
+- 🌱 I’m working with Unity3D, C# and C++ languages
 
 <!---
 DARPANMANEK/DARPANMANEK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
