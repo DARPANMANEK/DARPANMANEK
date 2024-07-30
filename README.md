@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DARPANMANEK/DARPANMANEK/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DARPANMANEK/DARPANMANEK/output/snake.svg" alt="Snake animation" />
 
 ###
 
