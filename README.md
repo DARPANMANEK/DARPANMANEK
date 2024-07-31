@@ -1,6 +1,26 @@
-<h2 align="left">Hi 👋! My name is Darpan Manek and I'm a Software Engineer</h2>
-
+<h2 align="left">
+  Hi <span class="wave">👋</span>! My name is Darpan Manek and I'm a Software Engineer
+</h2>
 ###
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2.5s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DARPANMANEK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
